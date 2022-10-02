@@ -1,5 +1,6 @@
-/** extends Clauses */
-// Classes may extend from a base class. A derived class has all the properties and methods of its base class, and also define additional members.
+/**
+ * Classes may extend from a base class. A derived class has all the properties and methods of its base class, and also define additional members.
+ */
 class Animal {
   move() {
     console.log("Moving along!");
